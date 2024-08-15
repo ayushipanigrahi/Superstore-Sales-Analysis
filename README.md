@@ -7,16 +7,16 @@ Steps Includes:
 
 1. Dashboard creation- Identified KPIs, designed an intuitive and visually appealing dashboard, added interactive visualizations to allow users to explore the data at various levels of granularity.
 
-- Data analysis- Utilized DAX queries to derive insights that are crucial for analysis.
-- Sales Forecasting- Leveraged historic data and applied time series analysis to generate sales forecasts for next 15 days.
+2. Data analysis- Utilized DAX queries to derive insights that are crucial for analysis.
+3. Sales Forecasting- Leveraged historic data and applied time series analysis to generate sales forecasts for next 15 days.
 
 Visualizations Includes:
 
 1. Donut charts
-- Cards
-- Line charts
-- Bar graphs
-- World map
+2. Cards
+3. Line charts
+4. Bar graphs
+5. World map
 
 Insights from Analysis:
 
