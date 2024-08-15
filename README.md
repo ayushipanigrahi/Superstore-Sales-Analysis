@@ -6,7 +6,6 @@ Tools used: Microsoft Excel, Microsoft Power BI
 Steps Includes:
 
 1. Dashboard creation- Identified KPIs, designed an intuitive and visually appealing dashboard, added interactive visualizations to allow users to explore the data at various levels of granularity.
-
 2. Data analysis- Utilized DAX queries to derive insights that are crucial for analysis.
 3. Sales Forecasting- Leveraged historic data and applied time series analysis to generate sales forecasts for next 15 days.
 
